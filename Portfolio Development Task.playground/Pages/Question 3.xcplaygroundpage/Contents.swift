@@ -21,7 +21,12 @@
  
  */
 // Answer question 3 below
-
+let hairBonationAmount = 55.75
+let runTrainingDonationAmount = 15.35
+var headShavedCount = 12
+var runTrainingCount = 73
+var totalDonationAmount = (hairBonationAmount * Double(headShavedCount)) + (runTrainingDonationAmount * Double(runTrainingCount))
+print("I use the 'let'for the hair bonation amount, run training donation amount, because these numbers won't change at last. The number of head shaved count and the run training count may increase, so I use the variable, and the total donation amount will increase, if the number of head shaved count and the run training count are changed. ")
 /*:
  ## Now share your understanding
  
