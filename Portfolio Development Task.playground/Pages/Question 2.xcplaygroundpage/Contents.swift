@@ -21,6 +21,12 @@
  
  */
 // Answer question 2 below
+let date = 19
+let time = 9.06
+var HeightOfSnow = 10.0
+var totalSnowfall = 120.0
+print("I chose to use a variable because the number will change, like the height of the snow and the total snow fall. The constant is something that you won't change, like the date, and the time when you measured the snow.")
+
 
 /*:
  ## Now share your understanding
